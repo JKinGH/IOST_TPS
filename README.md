@@ -1,7 +1,7 @@
 # IOST_TPS
 ---
 ## 背景
-IOST采用POB共识机制，0.5秒出一个块(2 BPS）,现对其进行TPS性能测试
+IOST采用POB共识机制，17个超级节点，0.5秒出一个块(2 BPS）,现对其进行TPS性能测试
 ---
 ## 官方资料
 [私链搭建方法教程](https://developers.iost.io/docs/en/1-getting-started/Overview.html)
